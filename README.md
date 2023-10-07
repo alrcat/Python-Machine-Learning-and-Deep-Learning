@@ -7,3 +7,4 @@ Share basic codes of Machine Learning and Deep Learning on python(jupyter notebo
 Поделитесь базовыми кодами машинного обучения и глубокого обучения на Python(jupyter notebook).
 ## Support languages支持语言
 English руский 简体中文
+## welcome to star持续更新中，欢迎收藏讨论 
